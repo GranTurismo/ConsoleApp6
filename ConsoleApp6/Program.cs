@@ -64,7 +64,6 @@ namespace ConsoleApp6
 
         public void Dispose()
         {
-            //throw new NotImplementedException();
         }
 
         public bool MoveNext()
