@@ -8,8 +8,6 @@ namespace ConsoleApp6
     {
         public T Current { get; set; }
         public MyModel<T> Next { get; set; }
-        public MyModel<T> Last { get; set; }
-        public MyModel<T> FirstNext { get; set; }
 
         public MyModel()
         {
